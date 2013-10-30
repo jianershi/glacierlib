@@ -5,6 +5,7 @@ Not all function is ready! Use at your own risk!
 
 ##Credit
 The work is based on this gist written by [tsileo](https://github.com/tsileo)
+
 https://gist.github.com/tsileo/3907846
 
 ##License
